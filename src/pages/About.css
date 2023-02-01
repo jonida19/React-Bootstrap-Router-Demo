@@ -1,0 +1,28 @@
+
+.navbar-default {
+  border:none;
+  width: 15%;
+  box-shadow: none !important;
+}
+
+/* .about_bg_image{
+    background-image: url(/src/assests/sushi.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+} */
+
+.logo-img{
+    width: 100%;
+    height: 100%;
+}
+
+.logo-img:hover{
+    box-shadow: 0 0 20px #b4b1b1;
+}
+
+.logo-button:focus{
+    border:none;
+}
+
