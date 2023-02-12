@@ -11,6 +11,7 @@ import "../node_modules/bootstrap/dist/css/bootstrap.css";
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "react-bootstrap-submenu/dist/index.css";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

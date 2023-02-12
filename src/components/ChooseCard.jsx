@@ -19,7 +19,7 @@ let Counter = () => {
                         <Card md={4} className='shadow-lg' id="shadow" style={{marginTop: 50, marginBottom: 50, backgroundColor: 'transparent'}}>
                             <Card.Body>
                                 <p className='display-6' style={{color: 'white'}}>I am...</p>
-                                <Button variant='success' className='m-1'>Customer</Button> 
+                                <Button variant='success' className='m-1' href='./search'>Customer</Button> 
                                 <Button variant='success' className='m-1'>Restaurateaur</Button>
                             </Card.Body>
                         </Card>

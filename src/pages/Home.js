@@ -6,7 +6,7 @@ import { Container, Row } from 'react-bootstrap'
 
 const Home = () => {
   return (
-    <div className='home_bg_image' float>
+    <div className='home_bg_image'float>
       <div><NavBarHome/></div>
       <Container variant="sm">
         <Row>
@@ -17,4 +17,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home 

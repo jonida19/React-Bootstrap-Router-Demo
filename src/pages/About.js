@@ -18,7 +18,6 @@ const About = () => {
       </Container>
       </Navbar>
        <OurStory/>
-
     </div>
   )
 }
